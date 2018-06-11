@@ -1,0 +1,9 @@
+Blanc vs Noir
+Noir place son pion, Blanc place son pion
+Noir choisit qui commence
+
+J1 place un pion à l'intersection des deux lignes de vues
+J2 peut déplacer un pion (optionnel), place un pion à l'intersection des deux lignes de vues
+
+Les maisons de même couleurs forment des blocks, les blocks forment des quartiers.
+Un block de chaque couleur par quartier
